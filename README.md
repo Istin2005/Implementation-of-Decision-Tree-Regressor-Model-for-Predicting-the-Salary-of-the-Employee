@@ -59,7 +59,8 @@ print(r2)
 dt.predict([[5,6]])
 ~~~
 ## Output:
-# DATASET
+
+<b>DATASET</b>
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/fad4ac6e-6233-4642-94d8-fdb9c24716a5)
 
 # data.info()
