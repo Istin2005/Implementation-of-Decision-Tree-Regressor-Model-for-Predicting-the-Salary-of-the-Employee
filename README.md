@@ -64,22 +64,22 @@ dt.predict([[5,6]])
 
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/fad4ac6e-6233-4642-94d8-fdb9c24716a5)
 
-# data.info()
+<h4> data.info()</h4>
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/1df11c88-3d24-407c-9bf4-f0997d2b2563)
 
-# CHECKING IF NULL VALUES ARE PRESENT
+<h4> CHECKING IF NULL VALUES ARE PRESENT</h4>
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/47c64c54-2d21-46b3-903b-bdd7fa2d2652)
 
-# DATASET AFTER ENCODING
+<h4> DATASET AFTER ENCODING</h4>
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/d10c39ff-3074-4edc-b201-68ca609248b7)
 
-# MSE
+<h4> MSE</h4>
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/af30b04f-2ad5-42f4-af2f-96cc8de4828b)
 
-# r2
+<h4> r2</h4>
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/5c85217b-0505-4345-98b0-e87b2f3c5976)
 
-# dt.predict()
+<h4> dt.predict()</h4>
 ![image](https://github.com/K-Dharshini/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139334830/d993baa4-b83e-4505-a779-c9fdc3f45cd9)
 
 ## Result:
